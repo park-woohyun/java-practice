@@ -12,3 +12,5 @@ public class TypeCastingCalculator {
         System.out.println("5. double -> float: " + (float)doubleValue);
     }
 }
+
+
